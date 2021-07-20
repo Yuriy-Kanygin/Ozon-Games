@@ -137,3 +137,4 @@ catboost_info/snapshot.bkp
 catboost_info/test/events.out.tfevents
 catboost_info/test_error.tsv
 catboost_model.json
+catboost_info/tmp/cat_feature_index.1fdaad83-44509406-ae1bef19-fcb9cf5.tmp
