@@ -138,3 +138,9 @@ catboost_info/test/events.out.tfevents
 catboost_info/test_error.tsv
 catboost_model.json
 catboost_info/tmp/cat_feature_index.1fdaad83-44509406-ae1bef19-fcb9cf5.tmp
+ozon final/catboost_info/catboost_training.json
+ozon final/catboost_info/learn/events.out.tfevents
+ozon final/catboost_info/learn_error.tsv
+ozon final/catboost_info/test/events.out.tfevents
+ozon final/catboost_info/test_error.tsv
+ozon final/catboost_info/time_left.tsv
